@@ -1,0 +1,40 @@
+edu/austral/dissis/starship/base/framework/MenuFlowController.java
+ edu.austral.dissis.starship.base.framework.MenuFlowController
+edu/austral/dissis/starship/base/objects/GameObject.java
+ edu.austral.dissis.starship.base.objects.GameObject
+edu/austral/dissis/starship/BulletDrawer.java
+ edu.austral.dissis.starship.BulletDrawer
+edu/austral/dissis/starship/base/objects/Starship.java
+ edu.austral.dissis.starship.base.objects.Starship
+edu/austral/dissis/starship/base/vector/Vector2.java
+ edu.austral.dissis.starship.base.vector.Vector2
+edu/austral/dissis/starship/base/objects/GUN.java
+ edu.austral.dissis.starship.base.objects.GUN
+edu/austral/dissis/starship/base/collision/Collisionable.java
+ edu.austral.dissis.starship.base.collision.Collisionable
+edu/austral/dissis/starship/base/collision/CollisionEngine.java
+ edu.austral.dissis.starship.base.collision.CollisionEngine
+edu/austral/dissis/starship/base/objects/Bullet.java
+ edu.austral.dissis.starship.base.objects.Bullet
+edu/austral/dissis/starship/StarshipDrawer.java
+ edu.austral.dissis.starship.StarshipDrawer
+edu/austral/dissis/starship/base/framework/ImageLoader.java
+ edu.austral.dissis.starship.base.framework.ImageLoader
+edu/austral/dissis/starship/base/framework/WindowSettings.java
+ edu.austral.dissis.starship.base.framework.WindowSettings
+edu/austral/dissis/starship/base/framework/GameFlowController.java
+ edu.austral.dissis.starship.base.framework.GameFlowController
+edu/austral/dissis/starship/base/Main.java
+ edu.austral.dissis.starship.base.Main
+edu/austral/dissis/starship/base/framework/GameFramework.java
+ edu.austral.dissis.starship.base.framework.GameFramework
+edu/austral/dissis/starship/SquareCollisionable.java
+ edu.austral.dissis.starship.SquareCollisionable
+edu/austral/dissis/starship/AsteroidDrawer.java
+ edu.austral.dissis.starship.AsteroidDrawer
+edu/austral/dissis/starship/base/objects/Asteroid.java
+ edu.austral.dissis.starship.base.objects.Asteroid
+edu/austral/dissis/starship/base/framework/GameManager.java
+ edu.austral.dissis.starship.base.framework.GameManager
+edu/austral/dissis/starship/CustomGameFramework.java
+ edu.austral.dissis.starship.CustomGameFramework
